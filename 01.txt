@@ -3,3 +3,5 @@ sor 01
 sor 02
 
 sor 3
+
+Sor: ez valami eltero sor
