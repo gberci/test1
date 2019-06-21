@@ -4,4 +4,8 @@ sor 02
 
 sor 3
 
+<<<<<<< HEAD
 Sor: ez valami eltero sor
+=======
+sor 4
+>>>>>>> fe98fff844e1b8492def8b5fd28b4b823da3d333
