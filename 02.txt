@@ -6,4 +6,8 @@ line 3
 
 line 4
 
+<<<<<<< HEAD
 line 6
+=======
+line 5
+>>>>>>> aea3ab924680cc91735ae39b6ed5d35a9856c86d

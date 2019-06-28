@@ -1,0 +1,15 @@
+diff --git a/02.txt b/02.txt
+index 8ed8b8c..b4ece9a 100644
+--- a/02.txt
++++ b/02.txt
+@@ -6,4 +6,8 @@ line 3
+ 
+ line 4
+ 
+-line 6
+\ No newline at end of file
++<<<<<<< HEAD
++line 6
++=======
++line 5
++>>>>>>> aea3ab924680cc91735ae39b6ed5d35a9856c86d
